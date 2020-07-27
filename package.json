@@ -1,6 +1,6 @@
 {
   "name": "@feizheng/glob-copy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Copy based on globby.",
   "homepage": "https://github.com/afeiship/glob-copy",
   "author": {
