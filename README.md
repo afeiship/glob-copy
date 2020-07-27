@@ -13,10 +13,10 @@ npm install -S @feizheng/glob-copy
 
 ## usage
 ```js
-import globCopy from '@feizheng/glob-copy';
+import cp from '@feizheng/glob-copy';
 
 // code goes here
-globCopy.sync([ "*.js", 'dist','!.md' ], 'dist');
+cp.sync([ "*.js", 'dist','!.md' ], 'dist');
 ```
 
 ## resources
